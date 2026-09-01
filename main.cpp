@@ -14,6 +14,6 @@ int main() {
   cin >> name;
   cout << "Years coding goal: ";
   cin >> years;
-  cout << name << " — 1/3/5/7 year story goes here (" << years << ")\n";
+  cout << name << " - I took Python last year and since it was an accelerated course, I don't think I studied as much as I should've. I want to put my best effort to learning this language. (" << years << ")\n";
   return 0;
 }
